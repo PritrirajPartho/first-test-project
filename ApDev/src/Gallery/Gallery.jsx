@@ -30,7 +30,7 @@ const Gallery = () => {
                             <div className="card-actions justify-end">
                             </div>
                         </div>
-                        <button className="btn btn-outline btn-accent ">select</button>
+                        <button className="btn btn-outline btn-accent ">Select</button>
                     </div>
                 ))
             }
